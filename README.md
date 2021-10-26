@@ -1,4 +1,5 @@
 # 如你所见，这是一份技术 blog
+[不那么技术](https://www.xunlu.xyz/)
 
 ## 科举
 
