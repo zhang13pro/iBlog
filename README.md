@@ -4,6 +4,7 @@
 ## Feynman
 
 [浏览器原理概述](https://github.com/zhang13pro/iBlog/issues/2)
+[Webpack原理与实践](https://github.com/zhang13pro/iBlog/issues/3)
 
 ## 科举
 
